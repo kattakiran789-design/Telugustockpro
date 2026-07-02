@@ -1,0 +1,2 @@
+# Telugustockpro
+Stock market trading 
